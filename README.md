@@ -1,5 +1,10 @@
 # Postman Learning
 
+### Gatsby
+- React-based open-source framework for creating websites and apps.
+- Static site generator (SSG)
+- Uses a combination of React & GraphQL
+
 ### React
 - `dangerouslySetInnerHTML`
   -  React’s replacement for using innerHTML in the browser DOM.
