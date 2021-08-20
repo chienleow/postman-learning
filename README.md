@@ -6,7 +6,7 @@
 - Uses a combination of React & GraphQL
 
 ### React
-- My React Notes:[React Recap](https://github.com/chienleow/react-notes)
+- My React Notes: [React Recap](https://github.com/chienleow/react-notes)
 - `dangerouslySetInnerHTML`
   -  React’s replacement for using innerHTML in the browser DOM.
   -  Resources: [React Doc](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
