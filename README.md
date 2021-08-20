@@ -28,3 +28,4 @@
 **1. What is Linting?** 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
 - Linting is the process of checking the source code for programmatic and stylistic errors
 - Done by using a lint tool (a.k.a Linter)
+- [ESLint](https://eslint.org/) for JavaScript
