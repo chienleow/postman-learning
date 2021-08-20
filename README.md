@@ -23,6 +23,8 @@
 - **Everything You Need to Know About rel=”noopener noreferrer”** 📖 [Read](https://clever-solution.com/everything-you-need-to-know-about-rel-noopener-noreferrer-tags-purpose-benefits-and-seo-impact/)
   - The noopener is needed to enhance the security of your website and prevent other websites from gaining access to your page (through the browser session).
   - The noreferrer is used to protect referral information from being passed to the target website and this also hides referral traffic in Google analytics.
+- **Be Sure to Provide Titles for Iframes (for accessibility)** 📖 [Read](https://dequeuniversity.com/tips/provide-iframe-titles)
+  -  When an iframe is given a meaningful title, screen reader users can pull up a list of frames and identify the content or purpose of the iframe based on its title.
 
 ## General Programming Questions
 **1. What is Linting?** 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
