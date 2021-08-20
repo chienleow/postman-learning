@@ -6,11 +6,11 @@
 - Uses a combination of React & GraphQL
 
 ### React
-- My React Notes: [React Recap](https://github.com/chienleow/react-notes)
+- **My React Notes: [React Recap]**(https://github.com/chienleow/react-notes)
 - `dangerouslySetInnerHTML`
   -  React’s replacement for using innerHTML in the browser DOM.
   -  Resources: [React Doc](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
-- Typechecking with PropTypes [React doc](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- **Typechecking with PropTypes** [React doc](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [Learn React PropTypes In 13 Minutes](https://www.youtube.com/watch?v=cx0S8JyiVxc)
   - When writing React, a common bug - accidentally pass incorrect props to component, and it is difficult to track down these bugs
     - As an example: `age="15"` should be a number, but we pass in as a string, `${age + 5}` would return `155` instead of `20`
