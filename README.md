@@ -10,6 +10,11 @@
 - `dangerouslySetInnerHTML`
   -  React’s replacement for using innerHTML in the browser DOM.
   -  Resources: [React Doc](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
+- Typechecking with PropTypes [React doc](https://reactjs.org/docs/typechecking-with-proptypes.html)
+  - [Learn React PropTypes In 13 Minutes](https://www.youtube.com/watch?v=cx0S8JyiVxc)
+  - When writing React, a common bug - accidentally pass incorrect props to component, and it is difficult to track down these bugs
+    - As an example: `age="15"` should be a number, but we pass in as a string, `${age + 5}` would return `155` instead of `20`
+  - With PropTypes: easily define exactly what the props should be for a component, you will see errors in inspect when props are incorrect
 
 ### Web Dev
 - How Does a Trailing Slash Impact SEO? [Read](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
