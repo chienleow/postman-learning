@@ -28,6 +28,15 @@
 - **Be Sure to Provide Titles for Iframes (for accessibility)** 📖 [Read](https://dequeuniversity.com/tips/provide-iframe-titles)
   -  When an iframe is given a meaningful title, screen reader users can pull up a list of frames and identify the content or purpose of the iframe based on its title.
 
+## API
+- **API design**
+  - The process of developing Application Programming Interfaces (APIs) that expose data and application functionality for use by developers and users
+  
+- **Differences Between API Documentation, Specifications, and Definitions**
+  - All related, but different entities, each serves a crucial purpose
+  - API Documentation: _Instructions for developers and API consumers how to use the API_
+  - API Specification:  
+
 ## General Programming Questions
 **1. What is Linting?** 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
 - Linting is the process of checking the source code for programmatic and stylistic errors
