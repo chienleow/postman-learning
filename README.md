@@ -29,6 +29,28 @@
   -  When an iframe is given a meaningful title, screen reader users can pull up a list of frames and identify the content or purpose of the iframe based on its title.
 
 ## API
+- **OpenAPI 3.0**
+  <br>The latest version of the OpenAPI Specification - an open source format for describing and documenting APIs
+  <details><summary>A simple OpenAPI 3.0 specification</summary>
+  <p>
+  
+  ```
+  openapi: 3.0.0
+  info:
+    version: 1.0.0
+    title: Sample API
+    description: A sample API to illustrate OpenAPI concepts
+  paths:
+    /list:
+      get:
+        description: Returns a list of stuff              
+        responses:
+          '200':
+            description: Successful response
+  ```
+  </p>
+  </details>
+
 - **API design**
   - The process of developing Application Programming Interfaces (APIs) that expose data and application functionality for use by developers and users
   
