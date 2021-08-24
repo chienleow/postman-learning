@@ -34,8 +34,9 @@
   
 - **Differences Between API Documentation, Specifications, and Definitions**
   - All related, but different entities, each serves a crucial purpose
-  - API Documentation: _Instructions for developers and API consumers how to use the API_
-  - API Specification:  
+  - **API Documentation:** _Instructions for developers and API consumers how to use the API_
+  - **API Specification:** _Provides a broad understanding of the functionality of the API and the expected results_
+  - **API Definition:** _Machine consumption of an API, providing machine-readable format for use_
 
 ## General Programming Questions
 **1. What is Linting?** 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
