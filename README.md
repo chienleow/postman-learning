@@ -29,7 +29,7 @@
   -  When an iframe is given a meaningful title, screen reader users can pull up a list of frames and identify the content or purpose of the iframe based on its title.
 
 ## API
-- **OpenAPI 3.0**
+- **OpenAPI 3.0** 📖 [Tutorial](https://support.smartbear.com/swaggerhub/docs/tutorials/openapi-3-tutorial.html)
   <br>The latest version of the OpenAPI Specification - an open source format for describing and documenting APIs
   <details><summary>A simple OpenAPI 3.0 specification</summary>
   <p>
