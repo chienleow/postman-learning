@@ -69,7 +69,9 @@
 - REST and SOAP are 2 different approaches to online data transmission, both define how to build APIs
 
 ### API Testing
-- API (Application Programming Interface) is the code that enables communication 
+- API (Application Programming Interface) is the code that enables communication between two software programs
+- API Testing ensures APIs meet functionality, security, performance and reliability expectations
+- Making requests to one or more API endpoints, comparing the response with expected results
 
 ## General Programming Questions
 ### 1. What is Linting? 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
