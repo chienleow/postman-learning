@@ -35,7 +35,7 @@
 
 ## API
 ### OpenAPI 3.0 📖 [Docs](https://support.smartbear.com/swaggerhub/docs/tutorials/openapi-3-tutorial.html) 🎥 [How to Design and Document APIs](https://youtu.be/6kwmW_p_Tig)
-  <br>The latest version of the OpenAPI Specification - an open source format for describing and documenting APIs
+- The latest version of the OpenAPI Specification - an open source format for describing and documenting APIs
   <details><summary>A simple OpenAPI 3.0 specification</summary>
   <p>
   
@@ -64,6 +64,12 @@
   - **API Documentation:** _Instructions for developers and API consumers how to use the API_
   - **API Specification:** _Provides a broad understanding of the functionality of the API and the expected results_
   - **API Definition:** _Machine consumption of an API, providing machine-readable format for use_
+
+### REST vs. SOAP
+- REST and SOAP are 2 different approaches to online data transmission, both define how to build APIs
+
+### API Testing
+- API (Application Programming Interface) is the code that enables communication 
 
 ## General Programming Questions
 ### 1. What is Linting? 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
