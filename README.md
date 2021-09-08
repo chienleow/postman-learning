@@ -32,6 +32,8 @@
   - The noreferrer is used to protect referral information from being passed to the target website and this also hides referral traffic in Google analytics.
 ### Be Sure to Provide Titles for Iframes (for accessibility) 📖 [Read](https://dequeuniversity.com/tips/provide-iframe-titles)
   -  When an iframe is given a meaningful title, screen reader users can pull up a list of frames and identify the content or purpose of the iframe based on its title.
+### Increasing Headline Clicks with Eyebrow Text 📖 [Read](https://uxmovement.com/content/increasing-headline-clicks-with-eyebrow-text/)
+  -  Eyebrow text is a descriptive keyword or phrase placed above the main headline and blurb.
 
 ## API
 ### OpenAPI 3.0 📖 [Docs](https://support.smartbear.com/swaggerhub/docs/tutorials/openapi-3-tutorial.html) 🎥 [How to Design and Document APIs](https://youtu.be/6kwmW_p_Tig)
