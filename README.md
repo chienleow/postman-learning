@@ -13,6 +13,11 @@
 
 ## React
 - My React Notes: [React Recap](https://github.com/chienleow/react-notes)
+
+### Styled Components in React
+- 🎥 [Styled Components Crash Course & Project](https://youtu.be/02zO0hZmwnw)
+- styled-components allows us to write CSS in JS in an elegant and reusable way
+
 ### `dangerouslySetInnerHTML`
   -  React’s replacement for using innerHTML in the browser DOM.
   -  Resources: [React Doc](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml)
