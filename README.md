@@ -12,7 +12,11 @@
 - Uses a combination of React & GraphQL
 
 ## React
-- My React Notes: [React Recap](https://github.com/chienleow/react-notes)
+#### [What is React?](https://github.com/chienleow/react-notes#what-is-react)
+#### [Why use React?](https://github.com/chienleow/react-notes#why-use-react)
+#### [Components](https://github.com/chienleow/react-notes#components)
+#### [State](https://github.com/chienleow/react-notes#state)
+#### [Hooks](https://github.com/chienleow/react-notes#hooks)
 
 ### Styled Components in React
 - 🎥 [Styled Components Crash Course & Project](https://youtu.be/02zO0hZmwnw)
