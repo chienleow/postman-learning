@@ -1,6 +1,7 @@
 # Postman Learning
 - [Gatsby](#gatsby)
 - [React](#react)
+- [JavaScript](#javascript)
 - [Web Dev](#web-dev)
 - [API](#api)
 - [General Programming Questions](#general-programming-questions)
@@ -32,6 +33,9 @@
   - With PropTypes: easily define exactly what the props should be for a component, you will see errors in inspect when props are incorrect
 ### React fragments vs div containers
   - Component returns multiple elements, to avoid adding extra nodes to the DOM, `<React.Fragment>` let you group a list of children.
+
+## JavaScript
+### How to Choose the Right NPM Package for Your Project? 📖 [Read](https://betterprogramming.pub/how-to-choose-the-right-npm-package-for-your-project-c3d1cc25285e)
 
 ## Web Dev
 ### How Does a Trailing Slash Impact SEO? 📖 [Read](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
