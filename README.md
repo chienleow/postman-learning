@@ -4,6 +4,7 @@
 - [JavaScript](#javascript)
 - [Web Dev](#web-dev)
 - [API](#api)
+- [NPM](#npm)
 - [General Programming Questions](#general-programming-questions)
 
 ## Gatsby
@@ -87,6 +88,15 @@
 - API (Application Programming Interface) is the code that enables communication between two software programs
 - API Testing ensures APIs meet functionality, security, performance and reliability expectations
 - Making requests to one or more API endpoints, comparing the response with expected results
+
+## NPM
+### UUID
+- [uuid](https://www.npmjs.com/package/uuid)
+- Generate unique identifier for your React app.
+
+### React Share
+- [react-share](https://github.com/nygardk/react-share)
+- Social media share buttons and share counts for React.
 
 ## General Programming Questions
 ### 1. What is Linting? 📖 [Read](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
