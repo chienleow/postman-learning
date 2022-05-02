@@ -1,0 +1,98 @@
+[
+    {
+      "type": "meta",
+      "url": "/case-studies/twitter/",
+      "title": "Twitter Case Study | Postman",
+      "description": "Developer Onboarding, Documentation, Mock Servers, API Distribution, Developer Evangelism",
+      "canonical": "",
+      "bodyTagId": ["case-studies-twitter"],
+      "generator": "algo",
+      "seoPreviewImg": "https://assets.getpostman.com/common-share/preview-case-studies-twitter.png"
+    },
+    {
+      "type": "heroSideBySideV6",
+      "layout": "2L",
+      "divider": true,
+      "backgroundColor": "",
+      "parentlink": {
+        "text": "Case Studies",
+        "href": "/case-studies/"
+      },
+      "h1": "",
+      "subtitle": [],
+      "media": {
+        "src": "",
+        "alt": "Postmanaut working with A P I. Illustration."
+      }
+    },
+    {
+      "type": "sideBySideResultsV6",
+      "body": [
+        ""
+      ],
+      "rightCardInfo": [
+        {
+          "iconSrc": "https://voyager.postman.com/icon/reporting-chart-icon-postman.svg",
+          "text": ""
+        },
+        {
+          "iconSrc": "https://voyager.postman.com/icon/learning-documentation-icon-postman.svg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "caseStudySectionV6",
+      "divider": true,
+      "topical": "challenge",
+      "title": "The Challenge",
+      "subtitle": "",
+      "body": [
+        ""
+      ]
+    },
+    {
+      "type": "caseStudySectionV6",
+      "divider": true,
+      "topical": "solution",
+      "title": "The Solution",
+      "subtitle": "",
+      "body": [
+        ""
+      ]
+    },
+    {
+      "type": "caseStudySectionV6",
+      "divider": false,
+      "topical": "outcome",
+      "title": "The Outcome",
+      "subtitle": "",
+      "body": [
+        ""
+      ]
+    },
+    {
+      "type": "callOutV6",
+      "divider": false,
+      "textAlign": "",
+      "backgroundColor": "#F9F9F9",
+      "title": "Contact Enterprise sales",
+      "body": [
+        "<p class=\"subtitle\">Join these companies and more than 20 million developers who are already building, running, and distributing APIs with Postman.</p>"
+      ],
+      "link": {
+        "buttonType": "primary",
+        "text": "Contact Sales",
+        "href": "/company/contact-sales/",
+        "hrefType": "internal",
+        "id": "contact-sales",
+        "gaCategory": "case-studies-twitter",
+        "gaLabel": "contact-sales"
+      }
+    },
+    {
+      "type": "caseStudyThreeAcrossV6",
+      "id": ""
+    }
+  ]
+  
