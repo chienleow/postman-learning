@@ -32,11 +32,11 @@
       ],
       "rightCardInfo": [
         {
-          "iconSrc": "https://voyager.postman.com/icon/reporting-chart-icon-postman.svg",
+          "iconSrc": "",
           "text": ""
         },
         {
-          "iconSrc": "https://voyager.postman.com/icon/learning-documentation-icon-postman.svg",
+          "iconSrc": "",
           "text": ""
         }
       ]
